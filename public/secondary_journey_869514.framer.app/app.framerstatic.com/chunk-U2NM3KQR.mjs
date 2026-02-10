@@ -1,2 +1,0 @@
-import{p as o}from"https://app.framerstatic.com/chunk-7QB5YDW7.mjs";import{g as r}from"https://app.framerstatic.com/chunk-JLNGOKO7.mjs";import{V as t}from"https://app.framerstatic.com/chunk-5V7XAOIL.mjs";function s(){return!0}function m(){return o.isOn("enableCrdtForNewProjects")}function u(){return t.isDevelopment&&!r.isE2E&&!r.isAutomation&&!r.isTest}export{s as a,m as b,u as c};
-//# sourceMappingURL=https://app.framerstatic.com/chunk-U2NM3KQR.mjs.map
